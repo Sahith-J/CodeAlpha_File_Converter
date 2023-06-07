@@ -39,6 +39,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## Author
 
 Your Name - [Sahith Jonnadula](https://github.com/Sahith-J)
-```
 
-Feel free to customize it further by adding screenshots, a demo link or video, and any other relevant details about your project.
